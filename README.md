@@ -1,4 +1,3 @@
-
 Project Banner
 next.js vapi tailwindcss firebase
 Prepwise: A job interview preparation platform powered by Vapi AI Voice agents
@@ -111,3 +110,5 @@ Public assets used in the project can be found here
 Advance your skills with Next.js Pro Course
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+
+Project Banner
